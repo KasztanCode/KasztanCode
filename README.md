@@ -1,7 +1,4 @@
 
-![Logo](https://i.ibb.co/92rp5Z7/Logo-Kasztan-png.png)
-
-
 # Hi, I'm KasztanCode!
 
 

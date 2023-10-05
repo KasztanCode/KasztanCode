@@ -1,45 +1,36 @@
 # Welcome to My GitHub Profile 👋
 
+![GitHub followers](https://img.shields.io/github/followers/KasztanCode?label=Followers&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=KasztanCode&color=brightgreen)
+
 ## About Me 🌟
 
-I'm an aspiring full-stack developer currently pursuing my studies and improving my programming skills. My passion lies in web development, and I'm on a journey to become proficient in various technologies.
-
-## Current Focus 🔨
-
-I'm actively engaged in web development projects, gaining practical experience, and tackling real-world coding challenges. Besides my coding endeavors, I'm also pursuing a computer science degree.
+I'm an aspiring full-stack developer currently pursuing my studies and improving my programming skills.
 
 ## What I'm Learning 📚
 
-My current learning journey covers a wide range of technologies and concepts:
 
-- **Front-End:** Focusing on mastering Angular and TypeScript to create dynamic web applications
-
-- **Back-End:** Diving deeper into server-side development with Node.js, Express.js, and RESTful API design.
-
-- **Containerization:** Gaining proficiency in Docker for efficient application deployment and management.
-
-- **Database Management:** Focusing on MongoDB for robust and scalable data storage solutions.
-
-I'm committed to continuous learning and applying these skills to build better web applications.
-
+- **Front-End:**
+  - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- **Back-End:**
+  - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+- **Containerization:**
+  - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- **Database Management:** 
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Tech Stack 🛠️
 
-My tech stack includes:
-
-- **Front-End:** HTML, CSS, JavaScript, TypeScript, and Angular, with proficiency in Tailwind CSS for efficient styling.
-
-- **Back-End:** Node.js, Express.js, MongoDB, and Docker for containerization.
-
-- **Version Control:** Git for efficient code management.
-
-I'm dedicated to continuous improvement and staying updated with industry best practices.
+- **Front-End:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+- **Back-End:**  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- **Version Control:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Get in Touch 📬
 
 Let's connect or discuss potential collaborations:
 
-- Email: kasztangaming73@gmail.com 📧
+- Email: [kasztangaming73@gmail.com](mailto:kasztangaming73@gmail.com) 📧
 
-
-Thank you for visiting my profile.
+Thank you for visiting my profile. 🙌

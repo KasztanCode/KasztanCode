@@ -1,6 +1,5 @@
 # Welcome to My GitHub Profile 👋
 
-![GitHub followers](https://img.shields.io/github/followers/KasztanCode?label=Followers&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=KasztanCode&color=brightgreen)
 
 ## About Me 🌟
